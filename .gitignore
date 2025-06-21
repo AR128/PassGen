@@ -1,0 +1,31 @@
+# Node.js specific
+# Ignore all node_modules directories, regardless of their depth
+node_modules/
+
+# Specific node_modules directories if preferred over the general rule
+client/node_modules/
+server/node_modules/
+
+npm-debug.log*
+
+# Environment variable files
+# Ignore .env files at the root and in subdirectories
+.env
+client/.env # Explicitly ignore if it exists in client/
+
+# Frontend build artifacts
+client/build/
+
+# Backend distribution (if you had a /dist folder for server code)
+server/dist/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# IDE specific files
+.idea/    # JetBrains IDEs (IntelliJ, WebStorm, etc.)
+.vscode/  # VS Code (optional, if you share workspace settings)
