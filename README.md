@@ -21,7 +21,7 @@ PassGen leverages a modern full-stack architecture to deliver its functionality.
 **lucide-react:** A collection of beautiful, community-maintained open-source icons.
 
 **Backend**   
- **Node.js:** A JavaScript runtime built on Chrome's V8 JavaScript engine.
+ **Node.js:** A JavaScript runtime built on Chrome's V8 JavaScript engine.  
 **Express.js:** A fast, unopinionated, minimalist web framework for Node.js.
 **Mongoose:** An elegant MongoDB object modeling tool for Node.js.  
 **express-jwt:** Middleware for authenticating JSON Web Tokens (JWT) from Auth0.  
