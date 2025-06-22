@@ -23,12 +23,12 @@ PassGen leverages a modern full-stack architecture to deliver its functionality.
 **Backend**   
  **Node.js:** A JavaScript runtime built on Chrome's V8 JavaScript engine.
 **Express.js:** A fast, unopinionated, minimalist web framework for Node.js.
-**Mongoose:** An elegant MongoDB object modeling tool for Node.js.
-**express-jwt:** Middleware for authenticating JSON Web Tokens (JWT) from Auth0.
-**jwks-rsa:** A library to retrieve RSA public keys from a JWKS endpoint for JWT verification.
-**dotenv:** Loads environment variables from a .env file.
-**cors:** Node.js middleware for providing a Connect/Express middleware that can be used to enable CORS with various options.
-**nodemon:** A tool that helps develop Node.js based applications by automatically restarting the node application when file changes are detected.
+**Mongoose:** An elegant MongoDB object modeling tool for Node.js.  
+**express-jwt:** Middleware for authenticating JSON Web Tokens (JWT) from Auth0.  
+**jwks-rsa:** A library to retrieve RSA public keys from a JWKS endpoint for JWT verification.  
+**dotenv:** Loads environment variables from a .env file.  
+**cors:** Node.js middleware for providing a Connect/Express middleware that can be used to enable CORS with various options.  
+**nodemon:** A tool that helps develop Node.js based applications by automatically restarting the node application when file changes are detected.  
 
 **Database**   
 **MongoDB Atlas:** A global cloud database service that provides a flexible, scalable, and highly available NoSQL database solution.
